@@ -1,0 +1,28 @@
+{
+  "name": "beanbalancer",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/djtu-association/beanbalancer"
+  },
+  "keywords": [
+    "beanstalkd"
+  ],
+  "author": "Xie Wei",
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/djtu-association/beanbalancer/blob/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/djtu-association/beanbalancer/issues"
+  },
+  "homepage": "https://github.com/djtu-association/beanbalancer"
+}
