@@ -1,11 +1,11 @@
 {
   "name": "beanbalancer",
-  "version": "0.0.0",
-  "description": "0.0.1",
+  "version": "0.0.1",
+  "description": "beanstalkd worker & runner",
   "main": "index.js",
   "scripts": {
     "start": "node index",
-    "test": "grunt test"
+    "test": "node test"
   },
   "repository": {
     "type": "git",
@@ -14,7 +14,10 @@
   "keywords": [
     "beanstalkd"
   ],
-  "author": "Xie Wei",
+  "author": "Xie Wei <501273364@qq.com>",
+  "contributors": [
+    "He Li <jet.in.brain@gmail.com>"
+  ],
   "license": [
     {
       "type": "MIT",
