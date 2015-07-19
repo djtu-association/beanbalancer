@@ -1,6 +1,6 @@
 {
   "name": "beanbalancer",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "beanstalkd worker & runner",
   "main": "index.js",
   "bin": { "beanconsumer": "./bin/beanconsumer" },
