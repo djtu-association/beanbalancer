@@ -4,6 +4,4 @@
  * Created by wei on 2015/5/17.
  */
 
-exports.test = function (string) {
-    return "Test mocha frame.";
-}
+exports.producer = require('./lib/producer');
