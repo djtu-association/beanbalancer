@@ -19,7 +19,7 @@ config = {
 
         appender : {
             type: 'dateFile',
-            filename: '../content/',
+            filename: './content/',
             pattern: "-yyyy-MM-dd.log",
             alwaysIncludePattern: false
         }

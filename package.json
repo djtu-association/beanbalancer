@@ -1,12 +1,10 @@
 {
   "name": "beanbalancer",
   "version": "0.0.2",
-  "description": "beanstalkd worker & runner",
+  "description": "beanstalkd producer & consumer",
   "main": "index.js",
-  "bin": { "beanconsumer": "./bin/beanconsumer" },
   "scripts": {
-    "start": "node index",
-    "test": "node test"
+    "start": "node ./bin/beanconsumer"
   },
   "repository": {
     "type": "git",
