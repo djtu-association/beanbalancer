@@ -30,4 +30,4 @@ node_modules
 .idea/
 
 # logger content
-content/
+content/*.log
