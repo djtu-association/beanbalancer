@@ -34,7 +34,7 @@ config = {
     producer : {
         connection : {
             host: '42.96.195.83',
-            post: '11300',
+            port: 11300,
             // the tube using for put data
             tube: 'fivebeans'
         },
